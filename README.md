@@ -1,1 +1,1 @@
-# MNIST_DatabaseUygulama
+# Keras_DatabaseUygulama
