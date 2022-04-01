@@ -1,4 +1,4 @@
-# Keras_DatabaseUygulama
+# Keras_Datasets
 CIFAR10_Database
 
 IMDB_Database
